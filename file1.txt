@@ -11,3 +11,5 @@ Feature 2
 Fix 3
 
 Feature 3
+
+Fix 4
