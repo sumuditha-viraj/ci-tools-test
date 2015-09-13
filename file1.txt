@@ -2,3 +2,5 @@ Starting cool feature
 
 Fix 1
 
+Feature 1
+
