@@ -23,3 +23,5 @@ Feature 5
 Fix 6
 
 Feature 6
+
+Feature 7
