@@ -19,3 +19,5 @@ Feature 4
 Fix 5
 
 Feature 5
+
+Fix 6
